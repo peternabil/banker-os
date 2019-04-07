@@ -1,4 +1,4 @@
-# banker-os
+# [banker-os](https://www.geeksforgeeks.org/operating-system-bankers-algorithm/)  
 
 
 this project is an assignemt for the course operating system 
